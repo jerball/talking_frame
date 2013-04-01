@@ -1,5 +1,5 @@
 {
-	"name": "interframe",
+	"name": "talking_frame",
 	"version": "0.0.1",
 	"description": "Client tools to provide communication between windows and iframes via postMessage",
 	"keywords": ["iframe", "window", "postMessage", "client", "tools"],
