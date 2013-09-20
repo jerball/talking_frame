@@ -1,1 +1,5 @@
 # talking frame
+
+## License
+
+MIT
